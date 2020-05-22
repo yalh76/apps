@@ -468,7 +468,7 @@
     "diaspora": {
         "branch": "master",
         "category": "social_media",
-        "level": 3,
+        "level": 7,
         "revision": "b01c695cb81df24be2baa1fbe77f250c7f3195bd",
         "state": "working",
         "subtags": [
@@ -599,7 +599,7 @@
     "drupal": {
         "branch": "master",
         "category": "publishing",
-        "level": 7,
+        "level": 2,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -704,7 +704,7 @@
     "flarum": {
         "branch": "master",
         "category": "communication",
-        "level": 2,
+        "level": 0,
         "revision": "6c0f19d95b5a7cec8e8278173472f3bf4a1adab6",
         "state": "working",
         "subtags": [
@@ -946,12 +946,11 @@
         "branch": "master",
         "category": "social_media",
         "revision": "HEAD",
-        "url": "https://github.com/Tagadda/glitch-soc_ynh",
+        "state": "inprogress",
         "subtags": [
             "microblogging"
         ],
-        "state": "inprogress"
-        
+        "url": "https://github.com/Tagadda/glitch-soc_ynh"
     },
     "glowingbear": {
         "branch": "master",
@@ -2319,7 +2318,7 @@
     "reel2bits": {
         "branch": "master",
         "category": "social_media",
-        "level": 7,
+        "level": 0,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -3097,6 +3096,7 @@
     "yunomonitor": {
         "branch": "master",
         "category": "system_tools",
+        "level": 4,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
@@ -3153,7 +3153,7 @@
     "zeronet": {
         "branch": "master",
         "category": "wat",
-        "level": 0,
+        "level": 2,
         "maintained": false,
         "revision": "1a77591a8dffdc4bcfd297a9340e98e0e6775865",
         "state": "working",
