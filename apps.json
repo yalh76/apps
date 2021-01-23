@@ -441,7 +441,7 @@
     "cryptpad": {
         "branch": "master",
         "category": "office",
-        "level": 7,
+        "level": 1,
         "revision": "HEAD",
         "state": "working",
         "subtags": [
